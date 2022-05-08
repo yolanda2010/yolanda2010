@@ -20,4 +20,4 @@ I am a lovely boy
 I love progranmar
 我爱编程
 I like Fiona
-我喜欢一个叫<!-- --></h2><p class="paragraph"><del>~~傅祎冉~~<!-- --></del>的女孩
+我喜欢一个叫</h2><p class="paragraph"><del>~~傅祎冉~~</del>的女孩
