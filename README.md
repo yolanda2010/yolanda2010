@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 哈哈
 I am a lovely boy
-我是一个可爱的男孩纸
+我是一个男孩纸
 I love progranmar
 我爱编程
-I like Fiona
