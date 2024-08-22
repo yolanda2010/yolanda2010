@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 哈哈
-I am a lovely boy
-我是一个男孩纸
-I love progranmar
-我爱编程
